@@ -5,7 +5,7 @@ Ore_counties
 geojson link: https://github.com/sullivja/darkbase_map/blob/master/assets/ore_counties.geojson
 
 
-![alt text](lab04-ore_counties.png)
+![alt text](https://github.com/sullivja/darkbase_map/blob/master/image/lab04-ore_counties.png)
 
 <b>Dark Base Map</b>
 
